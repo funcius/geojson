@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"id":"01"},
+      "properties": {"id":"ZJ", "name":"Zhejiang",     "name_ch":"浙江"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -50,7 +50,7 @@
     },
     {
       "type": "Feature",
-      "properties": {"id":"02"},
+      "properties": {"id":"HK", "name":"Hong Kong",     "name_ch":"香港"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
